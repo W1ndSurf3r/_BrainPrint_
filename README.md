@@ -47,9 +47,9 @@ The Experiment.ipynb contains a full example of how to used the library e.g. loa
 ```
 ### Examples
 
-<img src="images/grade_cam.png">
+<img src="images/grad_cam.png">
 <img src="images/attention.png">
-<img src="images/grade_cam_on.png">
+<img src="images/grad_cam_on.png">
 
 
 ## Contributing
